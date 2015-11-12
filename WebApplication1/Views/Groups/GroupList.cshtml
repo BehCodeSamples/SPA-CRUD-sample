@@ -1,0 +1,25 @@
+﻿<div ng-controller="groupsController">
+    <h1>{{$parent.title}}</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>TeacherName</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="group in Groups">
+                <td>{{group.Id}}</td>
+                <td>{{group.Name}}</td>
+                <td>{{group.TeacherName}}</td>
+                <td>
+                    <a class="btn btn-default" href="#/groups/edit/{{group.Id}}">Редактировать</a>
+                    <a class="btn btn-danger" ng-really-message="Are you sure?" ng-really-click="deleteGroup(group)" >Удалить</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <a href="#/groups/new" class="btn btn-primary">Добавить группу</a>
+</div>

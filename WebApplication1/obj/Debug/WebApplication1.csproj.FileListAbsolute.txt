@@ -1,0 +1,80 @@
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\i.bekhterev\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Projects\Angular\WebApplication1\bin\roslyn\csc.exe
+D:\Projects\Angular\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Angular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Angular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Angular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Angular\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Angular\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Angular\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Angular\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Angular\WebApplication1\bin\roslyn\vbc.exe
+D:\Projects\Angular\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Angular\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Angular\WebApplication1\bin\WebApplication1.dll.config
+D:\Projects\Angular\WebApplication1\bin\WebApplication1.dll
+D:\Projects\Angular\WebApplication1\bin\WebApplication1.pdb
+D:\Projects\Angular\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Projects\Angular\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Angular\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Angular\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Helpers.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Mvc.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Optimization.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Razor.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Webpages.dll
+D:\Projects\Angular\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Angular\WebApplication1\bin\WebGrease.dll
+D:\Projects\Angular\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Projects\Angular\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Angular\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Optimization.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Razor.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Webpages.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Helpers.xml
+D:\Projects\Angular\WebApplication1\bin\System.Web.Mvc.xml
+D:\Projects\Angular\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Projects\Angular\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Projects\Angular\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
